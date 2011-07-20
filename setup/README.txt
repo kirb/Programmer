@@ -1,0 +1,3 @@
+Thank you for installing the USB Programmer. You can now go to the CoreChart Mobile Website at <http://elabtronics.com/corechart> and click "Send Program to Chip" to load a program you make on the Website on to a microchip.
+If you decide you don't need the USB Programmer any more, simply click Start, Programs, USB Programmer and Uninstall.
+If you have any problems or questions, please go to the Feedback page of CoreChart Mobile: <http://elabtronics.com/corechart/index#feedback>
