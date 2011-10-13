@@ -9,4 +9,14 @@
 *.vcproj.*.user
 [Dd]ebug
 [Rr]elease
+ASM
+*.sys
+*.bak
+*.inc
+*.ini
+*.chm
+*.resources
+*.cache
+Thumbs.db
+obj
 nppBackup
